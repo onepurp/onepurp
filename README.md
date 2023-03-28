@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Khalid
-#### A Software Engineer Student from Morocco
+#### A Software Engineer Student from Morocco 🇲🇦
 <!--
 **onepurp/onepurp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
