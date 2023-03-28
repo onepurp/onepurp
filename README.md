@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 [![](https://gtce.itsvg.in/api?username=on3purp)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ My Favorite Quote
-![](https://quotes-github-readme.vercel.app/api?quote=You+don't+try+to+build+a+wall.+You+don't+set+out+to+build+a+wall.+You+don't+say+'I'm+going+to+build+the+biggest,+baddest,+greatest+wall+that's+ever+been+built'.You+don’t+start+there.+You+say+‘I’m+gonna+lay+this+brick+as+perfectly+as+a+brick+can+be+laid,’+and+you+do+that+every+single+day,+and+soon+you+have+a+wall.&?author=Will+Smith&?type=horizontal&theme=light&)
+![](https://quotes-github-readme.vercel.app/api?quote=You+don't+try+to+build+a+wall.+You+don't+set+out+to+build+a+wall.+You+don't+say+'I'm+going+to+build+the+biggest,+baddest,+greatest+wall+that's+ever+been+built'.You+don’t+start+there.+You+say+‘I’m+gonna+lay+this+brick+as+perfectly+as+a+brick+can+be+laid,’+and+you+do+that+every+single+day,+and+soon+you+have+a+wall.&?author=Will+Smith&?type=horizontal&theme=light)
