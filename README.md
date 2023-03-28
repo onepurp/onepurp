@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 💫 About Me:
-
 🌱 I’m currently learning At **ALX Software Engineer Program**
 
 📫 Reach me Here **on3purp@gmail.com** Or Dm me **@on3purp**
