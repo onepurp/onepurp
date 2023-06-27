@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 📫 Reach me Here **on3purp@gmail.com** Or Dm me **@on3purp**
 
-⚡ **BTW, I use Arch!**
+⚡ **BTW, I use Windows!**
 
 
 ### 🌐 Socials:
